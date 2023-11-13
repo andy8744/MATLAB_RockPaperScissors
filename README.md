@@ -1,4 +1,4 @@
-<img width="1115" alt="image" src="https://github.com/andy8744/MATLAB_RockPaperScissors/assets/42409796/22ed1cea-9592-4a5f-9f16-97180a3469bd"><img width="906" alt="image" src="https://github.com/andy8744/MATLAB_RockPaperScissors/assets/42409796/69e5a0ee-4090-4c04-98af-72377e6c7afb"># MATLAB_RockPaperScissors
+# MATLAB_RockPaperScissors
 MATLAB Deep Learning Session Files
 Link to matlab drive: 
 https://drive.matlab.com/sharing/e3f8c4c7-6a26-4f2b-9a2b-1193de247686/
